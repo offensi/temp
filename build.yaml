@@ -1,2 +1,2 @@
 steps: # A collection of image or container actions.
-  -cmd: gcr.io/gcp-bugbounty/backdoor
+  -build: --help gcr.io/gcp-bugbounty/backdoor
